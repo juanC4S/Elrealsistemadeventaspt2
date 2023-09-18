@@ -1,0 +1,9 @@
+C:\Users\jccsc\Desktop\sistemas-csharp\Sol_Minimaket\Sol_Minimarket.Datos\bin\Debug\Sol_Minimarket.Datos.dll
+C:\Users\jccsc\Desktop\sistemas-csharp\Sol_Minimaket\Sol_Minimarket.Datos\bin\Debug\Sol_Minimarket.Datos.pdb
+C:\Users\jccsc\Desktop\sistemas-csharp\Sol_Minimaket\Sol_Minimarket.Datos\bin\Debug\Sol_Minimarket.Entidades.dll
+C:\Users\jccsc\Desktop\sistemas-csharp\Sol_Minimaket\Sol_Minimarket.Datos\bin\Debug\Sol_Minimarket.Entidades.pdb
+C:\Users\jccsc\Desktop\sistemas-csharp\Sol_Minimaket\Sol_Minimarket.Datos\obj\Debug\Sol_Minimarket.Datos.csproj.AssemblyReference.cache
+C:\Users\jccsc\Desktop\sistemas-csharp\Sol_Minimaket\Sol_Minimarket.Datos\obj\Debug\Sol_Minimarket.Datos.csproj.CoreCompileInputs.cache
+C:\Users\jccsc\Desktop\sistemas-csharp\Sol_Minimaket\Sol_Minimarket.Datos\obj\Debug\Sol_Minimarket.Datos.csproj.CopyComplete
+C:\Users\jccsc\Desktop\sistemas-csharp\Sol_Minimaket\Sol_Minimarket.Datos\obj\Debug\Sol_Minimarket.Datos.dll
+C:\Users\jccsc\Desktop\sistemas-csharp\Sol_Minimaket\Sol_Minimarket.Datos\obj\Debug\Sol_Minimarket.Datos.pdb

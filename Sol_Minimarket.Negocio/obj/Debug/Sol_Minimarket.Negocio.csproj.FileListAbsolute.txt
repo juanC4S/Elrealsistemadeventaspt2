@@ -1,0 +1,11 @@
+C:\Users\jccsc\Desktop\sistemas-csharp\Sol_Minimaket\Sol_Minimarket.Negocio\bin\Debug\Sol_Minimarket.Negocio.dll
+C:\Users\jccsc\Desktop\sistemas-csharp\Sol_Minimaket\Sol_Minimarket.Negocio\bin\Debug\Sol_Minimarket.Negocio.pdb
+C:\Users\jccsc\Desktop\sistemas-csharp\Sol_Minimaket\Sol_Minimarket.Negocio\bin\Debug\Sol_Minimarket.Datos.dll
+C:\Users\jccsc\Desktop\sistemas-csharp\Sol_Minimaket\Sol_Minimarket.Negocio\bin\Debug\Sol_Minimarket.Entidades.dll
+C:\Users\jccsc\Desktop\sistemas-csharp\Sol_Minimaket\Sol_Minimarket.Negocio\bin\Debug\Sol_Minimarket.Datos.pdb
+C:\Users\jccsc\Desktop\sistemas-csharp\Sol_Minimaket\Sol_Minimarket.Negocio\bin\Debug\Sol_Minimarket.Entidades.pdb
+C:\Users\jccsc\Desktop\sistemas-csharp\Sol_Minimaket\Sol_Minimarket.Negocio\obj\Debug\Sol_Minimarket.Negocio.csproj.AssemblyReference.cache
+C:\Users\jccsc\Desktop\sistemas-csharp\Sol_Minimaket\Sol_Minimarket.Negocio\obj\Debug\Sol_Minimarket.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\jccsc\Desktop\sistemas-csharp\Sol_Minimaket\Sol_Minimarket.Negocio\obj\Debug\Sol_Minimarket.Negocio.csproj.CopyComplete
+C:\Users\jccsc\Desktop\sistemas-csharp\Sol_Minimaket\Sol_Minimarket.Negocio\obj\Debug\Sol_Minimarket.Negocio.dll
+C:\Users\jccsc\Desktop\sistemas-csharp\Sol_Minimaket\Sol_Minimarket.Negocio\obj\Debug\Sol_Minimarket.Negocio.pdb

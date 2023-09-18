@@ -1,0 +1,15 @@
+C:\Users\jccsc\Desktop\sistemas-csharp\Sol_Minimaket\Sol_Minimarket.Presentacion\obj\Debug\Sol_Minimarket.Presentacion.csproj.AssemblyReference.cache
+C:\Users\jccsc\Desktop\sistemas-csharp\Sol_Minimaket\Sol_Minimarket.Presentacion\obj\Debug\Sol_Minimarket.Presentacion.frm_Categorias.resources
+C:\Users\jccsc\Desktop\sistemas-csharp\Sol_Minimaket\Sol_Minimarket.Presentacion\obj\Debug\Sol_Minimarket.Presentacion.Properties.Resources.resources
+C:\Users\jccsc\Desktop\sistemas-csharp\Sol_Minimaket\Sol_Minimarket.Presentacion\obj\Debug\Sol_Minimarket.Presentacion.csproj.GenerateResource.cache
+C:\Users\jccsc\Desktop\sistemas-csharp\Sol_Minimaket\Sol_Minimarket.Presentacion\obj\Debug\Sol_Minimarket.Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\jccsc\Desktop\sistemas-csharp\Sol_Minimaket\Sol_Minimarket.Presentacion\bin\Debug\Sol_Minimarket.Presentacion.exe.config
+C:\Users\jccsc\Desktop\sistemas-csharp\Sol_Minimaket\Sol_Minimarket.Presentacion\bin\Debug\Sol_Minimarket.Presentacion.exe
+C:\Users\jccsc\Desktop\sistemas-csharp\Sol_Minimaket\Sol_Minimarket.Presentacion\bin\Debug\Sol_Minimarket.Presentacion.pdb
+C:\Users\jccsc\Desktop\sistemas-csharp\Sol_Minimaket\Sol_Minimarket.Presentacion\bin\Debug\Sol_Minimarket.Entidades.dll
+C:\Users\jccsc\Desktop\sistemas-csharp\Sol_Minimaket\Sol_Minimarket.Presentacion\bin\Debug\Sol_Minimarket.Negocio.dll
+C:\Users\jccsc\Desktop\sistemas-csharp\Sol_Minimaket\Sol_Minimarket.Presentacion\bin\Debug\Sol_Minimarket.Entidades.pdb
+C:\Users\jccsc\Desktop\sistemas-csharp\Sol_Minimaket\Sol_Minimarket.Presentacion\bin\Debug\Sol_Minimarket.Negocio.pdb
+C:\Users\jccsc\Desktop\sistemas-csharp\Sol_Minimaket\Sol_Minimarket.Presentacion\obj\Debug\Sol_Minimarket.Presentacion.csproj.CopyComplete
+C:\Users\jccsc\Desktop\sistemas-csharp\Sol_Minimaket\Sol_Minimarket.Presentacion\obj\Debug\Sol_Minimarket.Presentacion.exe
+C:\Users\jccsc\Desktop\sistemas-csharp\Sol_Minimaket\Sol_Minimarket.Presentacion\obj\Debug\Sol_Minimarket.Presentacion.pdb
