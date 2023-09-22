@@ -29,7 +29,7 @@ namespace Sol_Minimarket.Datos
             SqlConnection Cadena = new SqlConnection();
             try
             {
-                Cadena.ConnectionString = "Server=" + this.Servidor + "; Database=+" + this.Base + ";";
+                Cadena.ConnectionString = "Server=" + this.Servidor + "; Database=" + this.Base + ";";
                 if (Seguridad)
                 {
                     Cadena.ConnectionString = Cadena.ConnectionString + "Integrated Security=SSPI";
